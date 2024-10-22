@@ -1,0 +1,10 @@
+{
+  "domain": "electricity_usage",
+  "name": "Electricity Usage",
+  "version": "1.0",
+  "config_flow": true,
+  "requirements": [],
+  "codeowners": ["@arunpdl"],
+  "iot_class": "cloud_polling",
+  "icon": "config/icon.png"
+}
