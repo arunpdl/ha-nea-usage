@@ -1,0 +1,6 @@
+{
+  "name": "NEA Electricity Usage",
+  "content_in_root": false,
+  "domain": "nea_electricity_usage",
+  "render_readme": true
+}
