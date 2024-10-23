@@ -82,3 +82,7 @@ type: custom:electricity-usage-chart
 entity: sensor.monthly_data_meter_owner
 title: Monthly Electricity Usage
 ```
+
+## API Information
+
+The data displayed in this integration is fetched from the NEA API. The API is not officially documented and is subject to change. The endpoints were discovered by reverse engineering the NEA app. The API is not guaranteed to work in the future.
