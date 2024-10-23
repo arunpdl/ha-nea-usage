@@ -1,10 +1,9 @@
 {
-  "domain": "electricity_usage",
-  "name": "Electricity Usage",
+  "domain": "nea_electricity_usage",
+  "name": "NEA Electricity Usage",
   "version": "1.0",
   "config_flow": true,
   "requirements": [],
   "codeowners": ["@arunpdl"],
-  "iot_class": "cloud_polling",
-  "icon": "config/icon.png"
+  "iot_class": "cloud_polling"
 }
